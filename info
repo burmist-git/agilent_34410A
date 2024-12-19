@@ -1,0 +1,5 @@
+https://github.com/CINF/PyExpLabSys
+git clone https://github.com/CINF/PyExpLabSys.git
+source release.bash
+pip install pyserial
+sudo apt-get install python3-serial
